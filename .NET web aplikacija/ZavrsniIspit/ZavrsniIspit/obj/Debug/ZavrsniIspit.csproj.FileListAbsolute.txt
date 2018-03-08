@@ -1,0 +1,26 @@
+D:\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\bin\ZavrsniIspit.dll.config
+D:\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\bin\ZavrsniIspit.dll
+D:\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\bin\ZavrsniIspit.pdb
+D:\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.csproj.CoreCompileInputs.cache
+D:\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.dll
+D:\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.pdb
+D:\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.csprojResolveAssemblyReference.cache
+D:\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\bin\EntityFramework.dll
+D:\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\bin\EntityFramework.SqlServer.dll
+D:\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\bin\EntityFramework.xml
+D:\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\bin\ZavrsniIspit.dll.config
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\bin\ZavrsniIspit.dll
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\bin\ZavrsniIspit.pdb
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\bin\EntityFramework.dll
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\bin\EntityFramework.xml
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.dll
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\.NET web aplikacija\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.pdb

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ZavrsniIspitModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DnevnaProizvodnjaMlijeka">
+    <Key>
+      <PropertyRef Name="IDDnevnaProizvodnjaMlijeka" />
+    </Key>
+    <Property Name="IDDnevnaProizvodnjaMlijeka" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DnevnaKolicinaMlijekaLitre" Type="int" Nullable="false" />
+    <Property Name="ProsjecniPostotakMasnoce" Type="float" Nullable="false" />
+    <Property Name="ProsjecniPostotakMikroorganizama" Type="float" Nullable="false" />
+    <Property Name="DatumMuznje" Type="date" Nullable="false" />
+    <Property Name="KravaID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Krava">
+    <Key>
+      <PropertyRef Name="IDKrava" />
+    </Key>
+    <Property Name="IDKrava" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ime" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="DatumRodjenja" Type="date" Nullable="false" />
+    <Property Name="DatumDolaskaNaFarmu" Type="date" Nullable="false" />
+    <Property Name="JedinstveniVeterinarskiBroj" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="BrojTeladi" Type="int" Nullable="false" />
+    <Property Name="PasminaID" Type="int" Nullable="false" />
+    <Property Name="SlikaID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Pasmina">
+    <Key>
+      <PropertyRef Name="IDPasmina" />
+    </Key>
+    <Property Name="IDPasmina" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Naziv" Type="nvarchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Slika">
+    <Key>
+      <PropertyRef Name="IDSlika" />
+    </Key>
+    <Property Name="IDSlika" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NazivSlike" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Putanja" Type="nvarchar" MaxLength="200" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__DnevnaPro__Krava__208CD6FA">
+    <End Role="Krava" Type="Self.Krava" Multiplicity="1" />
+    <End Role="DnevnaProizvodnjaMlijeka" Type="Self.DnevnaProizvodnjaMlijeka" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Krava">
+        <PropertyRef Name="IDKrava" />
+      </Principal>
+      <Dependent Role="DnevnaProizvodnjaMlijeka">
+        <PropertyRef Name="KravaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Krava__PasminaID__1CBC4616">
+    <End Role="Pasmina" Type="Self.Pasmina" Multiplicity="1" />
+    <End Role="Krava" Type="Self.Krava" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pasmina">
+        <PropertyRef Name="IDPasmina" />
+      </Principal>
+      <Dependent Role="Krava">
+        <PropertyRef Name="PasminaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Krava__SlikaID__1DB06A4F">
+    <End Role="Slika" Type="Self.Slika" Multiplicity="1" />
+    <End Role="Krava" Type="Self.Krava" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Slika">
+        <PropertyRef Name="IDSlika" />
+      </Principal>
+      <Dependent Role="Krava">
+        <PropertyRef Name="SlikaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ZavrsniIspitModelStoreContainer">
+    <EntitySet Name="DnevnaProizvodnjaMlijeka" EntityType="Self.DnevnaProizvodnjaMlijeka" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Krava" EntityType="Self.Krava" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Pasmina" EntityType="Self.Pasmina" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Slika" EntityType="Self.Slika" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__DnevnaPro__Krava__208CD6FA" Association="Self.FK__DnevnaPro__Krava__208CD6FA">
+      <End Role="Krava" EntitySet="Krava" />
+      <End Role="DnevnaProizvodnjaMlijeka" EntitySet="DnevnaProizvodnjaMlijeka" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Krava__PasminaID__1CBC4616" Association="Self.FK__Krava__PasminaID__1CBC4616">
+      <End Role="Pasmina" EntitySet="Pasmina" />
+      <End Role="Krava" EntitySet="Krava" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Krava__SlikaID__1DB06A4F" Association="Self.FK__Krava__SlikaID__1DB06A4F">
+      <End Role="Slika" EntitySet="Slika" />
+      <End Role="Krava" EntitySet="Krava" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

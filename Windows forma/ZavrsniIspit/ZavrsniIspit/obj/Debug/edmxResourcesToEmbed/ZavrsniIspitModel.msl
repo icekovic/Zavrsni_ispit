@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ZavrsniIspitModelStoreContainer" CdmEntityContainer="ZavrsniIspitEntities">
+    <EntitySetMapping Name="DnevnaProizvodnjaMlijekas">
+      <EntityTypeMapping TypeName="ZavrsniIspitModel.DnevnaProizvodnjaMlijeka">
+        <MappingFragment StoreEntitySet="DnevnaProizvodnjaMlijeka">
+          <ScalarProperty Name="IDDnevnaProizvodnjaMlijeka" ColumnName="IDDnevnaProizvodnjaMlijeka" />
+          <ScalarProperty Name="DnevnaKolicinaMlijekaLitre" ColumnName="DnevnaKolicinaMlijekaLitre" />
+          <ScalarProperty Name="ProsjecniPostotakMasnoce" ColumnName="ProsjecniPostotakMasnoce" />
+          <ScalarProperty Name="ProsjecniPostotakMikroorganizama" ColumnName="ProsjecniPostotakMikroorganizama" />
+          <ScalarProperty Name="DatumMuznje" ColumnName="DatumMuznje" />
+          <ScalarProperty Name="KravaID" ColumnName="KravaID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kravas">
+      <EntityTypeMapping TypeName="ZavrsniIspitModel.Krava">
+        <MappingFragment StoreEntitySet="Krava">
+          <ScalarProperty Name="IDKrava" ColumnName="IDKrava" />
+          <ScalarProperty Name="Ime" ColumnName="Ime" />
+          <ScalarProperty Name="DatumRodjenja" ColumnName="DatumRodjenja" />
+          <ScalarProperty Name="DatumDolaskaNaFarmu" ColumnName="DatumDolaskaNaFarmu" />
+          <ScalarProperty Name="JedinstveniVeterinarskiBroj" ColumnName="JedinstveniVeterinarskiBroj" />
+          <ScalarProperty Name="BrojTeladi" ColumnName="BrojTeladi" />
+          <ScalarProperty Name="PasminaID" ColumnName="PasminaID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Pasminas">
+      <EntityTypeMapping TypeName="ZavrsniIspitModel.Pasmina">
+        <MappingFragment StoreEntitySet="Pasmina">
+          <ScalarProperty Name="IDPasmina" ColumnName="IDPasmina" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

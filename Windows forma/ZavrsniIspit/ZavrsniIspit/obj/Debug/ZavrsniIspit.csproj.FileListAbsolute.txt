@@ -1,0 +1,28 @@
+D:\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\bin\Debug\ZavrsniIspit.exe.config
+D:\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\bin\Debug\ZavrsniIspit.exe
+D:\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\bin\Debug\ZavrsniIspit.pdb
+D:\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\bin\Debug\EntityFramework.dll
+D:\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\bin\Debug\EntityFramework.SqlServer.dll
+D:\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\bin\Debug\EntityFramework.xml
+D:\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\bin\Debug\EntityFramework.SqlServer.xml
+D:\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.csprojResolveAssemblyReference.cache
+D:\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.Form1.resources
+D:\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.Properties.Resources.resources
+D:\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.csproj.GenerateResource.Cache
+D:\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.csproj.CoreCompileInputs.cache
+D:\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.exe
+D:\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.pdb
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\bin\Debug\ZavrsniIspit.exe.config
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\bin\Debug\ZavrsniIspit.exe
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\bin\Debug\ZavrsniIspit.pdb
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\bin\Debug\EntityFramework.dll
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\bin\Debug\EntityFramework.xml
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.Form1.resources
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.Properties.Resources.resources
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.csproj.GenerateResource.Cache
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.exe
+C:\Users\Ivan\Downloads\Zavrsni ispit-20180308T103642Z-001\Zavrsni ispit\Windows forma\ZavrsniIspit\ZavrsniIspit\obj\Debug\ZavrsniIspit.pdb
